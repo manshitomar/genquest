@@ -1,0 +1,6 @@
+Natural Language Processing (or NLP) is an area that is a confluence of Artificial Intelligence and linguistics. It involves intelligent analysis of written language. If you have a lot of data written in plain text and you want to automatically get some insights from it, you need to use NLP techniques.
+
+Natural Language Processing (or NLP) is an area that is a confluence of Artificial Intelligence and linguistics. It involves intelligent analysis of written language. If you have a lot of data written in plain text and you want to automatically get some insights from it, you need to use NLP techniques.
+
+Deep Learning (which includes Recurrent Neural Networks, Convolution neural Networks and others) is a type of Machine Learning approach. It is an extension of Neural Networks. Deep Learning is used quite extensively for vision based classification (e.g. distinguishing images of airplanes from images of dogs). Deep Learning can be used for NLP tasks as well. However it is important to note that Deep Learning algorithms do not exclusively deal with text.
+
